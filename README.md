@@ -270,6 +270,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 
 ## MOOC
+- [ ] [edX's Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
@@ -296,6 +297,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
+- [ ] [Machine Learning for Humans🤖👶](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
